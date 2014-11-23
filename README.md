@@ -2,7 +2,7 @@ Assessments /Getting and Cleaning Data Course Project
 ==========
 The file describing how the script works.  
 *The data obtained from:  
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
 the data for the project:   
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 *steps:  
